@@ -1,0 +1,2 @@
+These files are modified copies of internal source code from Microsoft Sway.
+Use them only as references for your own code.
